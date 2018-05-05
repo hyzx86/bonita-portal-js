@@ -6,7 +6,7 @@ Part of bonita portal written using AngularJs
 - node.js > v6.9.4 
 - yarn > v0.27.5
 - maven > 3.3.9
-
+- phantomjs
 ## Development tasks
 Please run `yarn install` Before launching any of following tasks
 
